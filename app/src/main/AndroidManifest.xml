@@ -58,7 +58,7 @@
         <activity android:name=".RecuritBoard.RecruitPostListActivity"/>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBz_ZJntT98OpW-SOSh2s8v9p6w8xRwyXc" />
+           
     </application>
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.DIAL_PHONE" />
